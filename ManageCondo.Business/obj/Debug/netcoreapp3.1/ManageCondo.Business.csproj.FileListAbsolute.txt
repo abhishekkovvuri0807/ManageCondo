@@ -1,0 +1,9 @@
+D:\Personal Projects\ManageCondo\ManageCondo.Business\bin\Debug\netcoreapp3.1\ManageCondo.Business.deps.json
+D:\Personal Projects\ManageCondo\ManageCondo.Business\bin\Debug\netcoreapp3.1\ManageCondo.Business.dll
+D:\Personal Projects\ManageCondo\ManageCondo.Business\bin\Debug\netcoreapp3.1\ManageCondo.Business.pdb
+D:\Personal Projects\ManageCondo\ManageCondo.Business\obj\Debug\netcoreapp3.1\ManageCondo.Business.csprojAssemblyReference.cache
+D:\Personal Projects\ManageCondo\ManageCondo.Business\obj\Debug\netcoreapp3.1\ManageCondo.Business.AssemblyInfoInputs.cache
+D:\Personal Projects\ManageCondo\ManageCondo.Business\obj\Debug\netcoreapp3.1\ManageCondo.Business.AssemblyInfo.cs
+D:\Personal Projects\ManageCondo\ManageCondo.Business\obj\Debug\netcoreapp3.1\ManageCondo.Business.csproj.CoreCompileInputs.cache
+D:\Personal Projects\ManageCondo\ManageCondo.Business\obj\Debug\netcoreapp3.1\ManageCondo.Business.dll
+D:\Personal Projects\ManageCondo\ManageCondo.Business\obj\Debug\netcoreapp3.1\ManageCondo.Business.pdb

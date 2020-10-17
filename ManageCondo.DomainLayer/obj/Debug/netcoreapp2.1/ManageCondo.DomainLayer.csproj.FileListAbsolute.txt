@@ -1,0 +1,12 @@
+D:\Personal Projects\ManageCondo\ManageCondo.DomainLayer\bin\Debug\netcoreapp2.1\ManageCondo.DomainLayer.deps.json
+D:\Personal Projects\ManageCondo\ManageCondo.DomainLayer\bin\Debug\netcoreapp2.1\ManageCondo.DomainLayer.runtimeconfig.json
+D:\Personal Projects\ManageCondo\ManageCondo.DomainLayer\bin\Debug\netcoreapp2.1\ManageCondo.DomainLayer.runtimeconfig.dev.json
+D:\Personal Projects\ManageCondo\ManageCondo.DomainLayer\bin\Debug\netcoreapp2.1\ManageCondo.DomainLayer.dll
+D:\Personal Projects\ManageCondo\ManageCondo.DomainLayer\bin\Debug\netcoreapp2.1\ManageCondo.DomainLayer.pdb
+D:\Personal Projects\ManageCondo\ManageCondo.DomainLayer\obj\Debug\netcoreapp2.1\ManageCondo.DomainLayer.csprojAssemblyReference.cache
+D:\Personal Projects\ManageCondo\ManageCondo.DomainLayer\obj\Debug\netcoreapp2.1\ManageCondo.DomainLayer.AssemblyInfoInputs.cache
+D:\Personal Projects\ManageCondo\ManageCondo.DomainLayer\obj\Debug\netcoreapp2.1\ManageCondo.DomainLayer.AssemblyInfo.cs
+D:\Personal Projects\ManageCondo\ManageCondo.DomainLayer\obj\Debug\netcoreapp2.1\ManageCondo.DomainLayer.csproj.CoreCompileInputs.cache
+D:\Personal Projects\ManageCondo\ManageCondo.DomainLayer\obj\Debug\netcoreapp2.1\ManageCondo.DomainLayer.dll
+D:\Personal Projects\ManageCondo\ManageCondo.DomainLayer\obj\Debug\netcoreapp2.1\ManageCondo.DomainLayer.pdb
+D:\Personal Projects\ManageCondo\ManageCondo.DomainLayer\obj\Debug\netcoreapp2.1\ManageCondo.DomainLayer.genruntimeconfig.cache

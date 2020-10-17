@@ -1,0 +1,14 @@
+D:\Personal Projects\ManageCondo\ManageCondo.Repository\bin\Debug\netcoreapp2.1\ManageCondo.Repository.deps.json
+D:\Personal Projects\ManageCondo\ManageCondo.Repository\bin\Debug\netcoreapp2.1\ManageCondo.Repository.dll
+D:\Personal Projects\ManageCondo\ManageCondo.Repository\bin\Debug\netcoreapp2.1\ManageCondo.Repository.pdb
+D:\Personal Projects\ManageCondo\ManageCondo.Repository\bin\Debug\netcoreapp2.1\ManageCondo.Repository.Interfaces.dll
+D:\Personal Projects\ManageCondo\ManageCondo.Repository\bin\Debug\netcoreapp2.1\ManageCondo.Repository.Interfaces.pdb
+D:\Personal Projects\ManageCondo\ManageCondo.Repository\obj\Debug\netcoreapp2.1\ManageCondo.Repository.csprojAssemblyReference.cache
+D:\Personal Projects\ManageCondo\ManageCondo.Repository\obj\Debug\netcoreapp2.1\ManageCondo.Repository.AssemblyInfoInputs.cache
+D:\Personal Projects\ManageCondo\ManageCondo.Repository\obj\Debug\netcoreapp2.1\ManageCondo.Repository.AssemblyInfo.cs
+D:\Personal Projects\ManageCondo\ManageCondo.Repository\obj\Debug\netcoreapp2.1\ManageCondo.Repository.csproj.CopyComplete
+D:\Personal Projects\ManageCondo\ManageCondo.Repository\obj\Debug\netcoreapp2.1\ManageCondo.Repository.dll
+D:\Personal Projects\ManageCondo\ManageCondo.Repository\obj\Debug\netcoreapp2.1\ManageCondo.Repository.pdb
+D:\Personal Projects\ManageCondo\ManageCondo.Repository\bin\Debug\netcoreapp2.1\ManageCondo.DomainLayer.dll
+D:\Personal Projects\ManageCondo\ManageCondo.Repository\bin\Debug\netcoreapp2.1\ManageCondo.DomainLayer.pdb
+D:\Personal Projects\ManageCondo\ManageCondo.Repository\obj\Debug\netcoreapp2.1\ManageCondo.Repository.csproj.CoreCompileInputs.cache

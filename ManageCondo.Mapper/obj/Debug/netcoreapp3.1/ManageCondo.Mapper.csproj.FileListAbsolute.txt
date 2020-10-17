@@ -1,0 +1,9 @@
+D:\Personal Projects\ManageCondo\ManageCondo.Mapper\bin\Debug\netcoreapp3.1\ManageCondo.Mapper.deps.json
+D:\Personal Projects\ManageCondo\ManageCondo.Mapper\bin\Debug\netcoreapp3.1\ManageCondo.Mapper.dll
+D:\Personal Projects\ManageCondo\ManageCondo.Mapper\bin\Debug\netcoreapp3.1\ManageCondo.Mapper.pdb
+D:\Personal Projects\ManageCondo\ManageCondo.Mapper\obj\Debug\netcoreapp3.1\ManageCondo.Mapper.csprojAssemblyReference.cache
+D:\Personal Projects\ManageCondo\ManageCondo.Mapper\obj\Debug\netcoreapp3.1\ManageCondo.Mapper.AssemblyInfoInputs.cache
+D:\Personal Projects\ManageCondo\ManageCondo.Mapper\obj\Debug\netcoreapp3.1\ManageCondo.Mapper.AssemblyInfo.cs
+D:\Personal Projects\ManageCondo\ManageCondo.Mapper\obj\Debug\netcoreapp3.1\ManageCondo.Mapper.csproj.CoreCompileInputs.cache
+D:\Personal Projects\ManageCondo\ManageCondo.Mapper\obj\Debug\netcoreapp3.1\ManageCondo.Mapper.dll
+D:\Personal Projects\ManageCondo\ManageCondo.Mapper\obj\Debug\netcoreapp3.1\ManageCondo.Mapper.pdb

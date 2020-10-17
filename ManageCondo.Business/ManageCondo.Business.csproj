@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ManageCondo.DomainLayer\ManageCondo.DomainLayer.csproj" />
+    <ProjectReference Include="..\ManageCondo.Repository.Interfaces\ManageCondo.Repository.Interfaces.csproj" />
+    <ProjectReference Include="..\ManageCondo.Repository\ManageCondo.Repository.csproj" />
+  </ItemGroup>
+
+</Project>

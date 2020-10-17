@@ -1,0 +1,9 @@
+D:\Personal Projects\ManageCondo\ManageCondo.Repository.Interfaces\bin\Debug\netcoreapp3.1\ManageCondo.Repository.Interfaces.deps.json
+D:\Personal Projects\ManageCondo\ManageCondo.Repository.Interfaces\bin\Debug\netcoreapp3.1\ManageCondo.Repository.Interfaces.dll
+D:\Personal Projects\ManageCondo\ManageCondo.Repository.Interfaces\bin\Debug\netcoreapp3.1\ManageCondo.Repository.Interfaces.pdb
+D:\Personal Projects\ManageCondo\ManageCondo.Repository.Interfaces\obj\Debug\netcoreapp3.1\ManageCondo.Repository.Interfaces.csprojAssemblyReference.cache
+D:\Personal Projects\ManageCondo\ManageCondo.Repository.Interfaces\obj\Debug\netcoreapp3.1\ManageCondo.Repository.Interfaces.AssemblyInfoInputs.cache
+D:\Personal Projects\ManageCondo\ManageCondo.Repository.Interfaces\obj\Debug\netcoreapp3.1\ManageCondo.Repository.Interfaces.AssemblyInfo.cs
+D:\Personal Projects\ManageCondo\ManageCondo.Repository.Interfaces\obj\Debug\netcoreapp3.1\ManageCondo.Repository.Interfaces.csproj.CoreCompileInputs.cache
+D:\Personal Projects\ManageCondo\ManageCondo.Repository.Interfaces\obj\Debug\netcoreapp3.1\ManageCondo.Repository.Interfaces.dll
+D:\Personal Projects\ManageCondo\ManageCondo.Repository.Interfaces\obj\Debug\netcoreapp3.1\ManageCondo.Repository.Interfaces.pdb
